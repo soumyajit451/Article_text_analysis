@@ -1,0 +1,8 @@
+pandas
+numpy
+nltk
+syllables
+requests
+lxml
+openpyxl
+os
